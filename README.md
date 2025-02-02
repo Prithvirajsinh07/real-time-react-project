@@ -13,4 +13,6 @@ This is a React.js based dashboard application developed for a company to manage
 - **Search & Filter**: Users can search and filter bids by various criteria.
 - **Styling**: Tailwind CSS for styling with a clean and modern design.
 
+- ![image alt](https://github.com/Prithvirajsinh07/real-time-react-project/blob/main/Screenshot%202025-02-02%20234608.png?raw=true);
+
 
